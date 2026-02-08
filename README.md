@@ -2,7 +2,7 @@
 
 A conversational AI support system for Ford Bronco vehicles, powered by LlamaIndex and Streamlit. This application provides intelligent document-based Q&A and automated ticket creation for customer support.
 
-**🌐 Published on [Hugging Face Spaces](https://huggingface.co/spaces)**
+**🌐 Published on [Hugging Face Spaces](https://huggingface.co/spaces/koolshen/rag)**
 
 ## Features
 
